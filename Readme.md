@@ -12,7 +12,7 @@ Vid2Text is a tool to extract audio from videos and transcribe it into text usin
 Clone this repository:
 
 ```
-git clone https://github.com/<your-username>/Vid2Text.git
+git clone https://github.com/Tigerzplace/Vid2Text.git
 ```
 
 Install ffmpeg and create a service account in Google Cloud Speech-To-Text.
