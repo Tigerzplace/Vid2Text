@@ -39,6 +39,9 @@ python vid2text.py <video-file> -l <language-code>
 
 The language code should be a [supported language code](https://cloud.google.com/speech-to-text/docs/languages) for the Google Cloud Speech-To-Text API.
 
+
+If you don't want to use the Google Cloud Speech-To-Text API, you can use the [VTT-Snap](https://github.com/Tigerzplace/VTT-Snap) tool which is using offline method but not as accurate as the Google Cloud Speech-To-Text API.
+
 ## Credits
 
 [Ñasir Ali](https://fb.com/tiger6117).
