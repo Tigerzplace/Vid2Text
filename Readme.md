@@ -19,7 +19,7 @@ Install ffmpeg and create a service account in Google Cloud Speech-To-Text.
 
 To install ffmpeg, follow the instructions given [here](https://www.wikihow.com/Install-FFmpeg-on-Windows).
 
-To create service account credentials, follow the instructions given [here](https://cloud.google.com/speech-to-text/docs/quickstart-protocol). Download the JSON file and save it in the same directory as `key.json`.
+To create service account credentials, follow the instructions given [here](https://cloud.google.com/speech-to-text/docs/before-you-begin). If you want to follow up a video tutorial, you can get the whole method [here]: (https://youtu.be/DtlJH6MgBso?t=94).  Download the JSON file and save it in the same directory as `key.json`.
 
 ## Usage
 
